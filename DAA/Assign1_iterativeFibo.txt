@@ -1,7 +1,5 @@
 import java.util.Scanner;
 
-//write non recursive and recursive program to calculate fibonacci numbers
-
 public class Assign1_iterativeFibo{
     public static void main(String[] args) {
         
